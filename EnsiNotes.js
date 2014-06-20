@@ -5,6 +5,8 @@
 // @include     https://intranet.ensimag.fr/Zenith2/ConsultNotes?uid=*
 // @version     1
 // @grant       none
+// @author      posva
+// @copyright   2014, Posva (http://posva.net)
 // ==/UserScript==
 
 /*
