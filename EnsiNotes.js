@@ -84,7 +84,7 @@ function calc() {
     addNoteColor(moy, note);
 }
 
-$( document ).ready(function() {
+(function() {
     init();
     calc();
-});
+})();
