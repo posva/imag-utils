@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name        EnsiNotes
 // @namespace   https://intranet.ensimag.fr/Zenith2/ConsultNotes?uid=*
-// @description Cool notes
+// @description Notes Zenith 2
 // @include     https://intranet.ensimag.fr/Zenith2/ConsultNotes?uid=*
 // @version     1
 // @grant       none
 // @author      posva
 // @copyright   2014, Posva (http://posva.net)
+// @version       1.0
+// @license       GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // ==/UserScript==
 
 /*
