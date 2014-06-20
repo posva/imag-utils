@@ -5,6 +5,7 @@ Ce dépôt permet de mettre en commun un ensemble de scripts utiles (ou pas) uti
 
 # Scripts
 
+* EnsiNotes.js: Helper pour les notes en lignes sur Zenith 2
 
 # Contact
 
