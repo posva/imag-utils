@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        EnsiNotes
-// @namespace   https://intranet.ensimag.fr/Zenith2/ConsultNotes?uid=*
+// @namespace   imag
 // @description Notes Zenith 2
 // @icon        https://raw.githubusercontent.com/posva/imag-utils/master/logo.png
 // @include     https://intranet.ensimag.fr/Zenith2/ConsultNotes?uid=*
