@@ -13,6 +13,6 @@ Créé par @posva ([posva.net](http://posva.net))
 
 Contributeur:
 
-* ([@posva](github.com/posva/])) ([posva.net](http://posva.net))
-* ([@ArthurSonzogni](github.com/ArthurSonzogni/))
+* [@posva](github.com/posva/]) ([posva.net](http://posva.net))
+* [@ArthurSonzogni](github.com/ArthurSonzogni/)
 
