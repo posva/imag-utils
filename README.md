@@ -11,7 +11,8 @@ Ce dépôt permet de mettre en commun un ensemble de scripts utiles (ou pas) uti
 
 Créé par @posva ([posva.net](http://posva.net))
 
-Collaborateurs:
+Contributeur:
 
-* :hand:
+* :hand  @posva ([posva.net](http://posva.net))
+* :hand: @ArthurSonzogni
 
