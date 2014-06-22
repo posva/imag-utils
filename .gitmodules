@@ -1,0 +1,3 @@
+[submodule "EnsimagZenithPlus"]
+	path = EnsimagZenithPlus
+	url = git://github.com/ArthurSonzogni/EnsimagZenithPlus
