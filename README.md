@@ -3,6 +3,10 @@ Scripts pour l'Ensimag
 
 Ce dépôt permet de mettre en commun un ensemble de scripts utiles (ou pas) utilisables par les étudiants.
 
+# Après avoir cloné ce dépot
+
+git submodule update --init
+
 # Scripts
 
 * EnsimagZenithPlus: Amélioration (moyenne, couleurs, ...) pour les notes en lignes sur Zenith 2. [Install](https://openuserjs.org/scripts/ArthurSonzogni/EnsimagZenithPlus)
