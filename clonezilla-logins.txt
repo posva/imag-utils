@@ -1,0 +1,8 @@
+Mots de passe de la machine :
+Windows :
+  pas de mot de passe
+VM CentOS :
+  root : imag12
+CentOS :
+  root : ensimag
+  user : user
